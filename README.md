@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou implementando o projeto: [Total Esportes](https://github.com/MuriloVercosa01/pwII-projeto-total_esporte-)
 
-- 🌱 Atualmente estou estudando **frontend,backend... um pouquinho de tudo**
+- 🌱 estou estudando **frontend,backend... um pouquinho de tudo**
 
 <h3 align="left">contato:</h3>
 <p align="left">
