@@ -1,7 +1,7 @@
 <h1 align="center">olá 👋, me chamo Murilo M. Verçosa</h1>
 <h3 align="center">paixão por aprender, estou cursando Desenvolvimento de Sistemas</h3>
 
-- 🔭 Atualmente estou implementando o projeto: [Total Esportes](https://github.com/MuriloVercosa01/pwII-projeto-total_esporte-)
+- 🔭 Atualmente estou implementando o projeto: [Total Esportes](https://github.com/MuriloVercosa01/Total-Esporte)
 
 - 🌱 estou estudando **frontend,backend... um pouquinho de tudo**
 
