@@ -1,11 +1,11 @@
 <h1 align="center">olá 👋, me chamo Murilo M. Verçosa</h1>
 <h3 align="center">paixão por aprender, estou cursando Desenvolvimento de Sistemas</h3>
 
-- 📖 Atualmente Cursando desenvolvimento de Sistema na Etec Uirapuru
+- 📖 Atualmente Cursando desenvolvimento de Sistemas na Etec Uirapuru
 
 - 📖 Atualmente Cursando Programação Oracle - Java Fundations
   
-- 🔭 Atualmente estou trabalhando no projeto: [Total Esportes](https://github.com/MuriloVercosa01/Total-Esporte)
+- 🔭  trabalhando no projeto: [Total Esportes](https://github.com/MuriloVercosa01/Total-Esporte)
 
 - 🔭 Estou desenvolvendo meu TCC: [TCC](https://github.com/MuriloVercosa01/DTCC)
 
