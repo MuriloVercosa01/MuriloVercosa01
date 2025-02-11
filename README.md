@@ -3,7 +3,7 @@
 
 - 📖 Atualmente Cursando Desenvolvimento de Sistemas na Etec Uirapuru
 
-- 📖 Atualmente Cursando Programação Oracle - Java Fundations
+- 📖 Atualmente Cursando Programação Oracle - Java Fundations no Senai Mariano Ferraz
   
 - 🔭  trabalhando no projeto: [Total Esportes](https://github.com/MuriloVercosa01/Total-Esporte)
 
