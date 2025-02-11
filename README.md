@@ -9,9 +9,6 @@
 
 - 🔭 Estou desenvolvendo meu TCC: [TCC](https://github.com/MuriloVercosa01/DTCC)
 
-- 🌱 estou estudando **frontend,backend... um pouquinho de tudo**
-
--  🌱 também estou estudando **java** atualmente
 
 <h3 align="left">contato:</h3>
 <p align="left">
