@@ -1,7 +1,7 @@
 <h1 align="center">olá 👋, me chamo Murilo M. Verçosa</h1>
 <h3 align="center">paixão por aprender, estou cursando Desenvolvimento de Sistemas</h3>
 
-- 📖 Atualmente Cursando desenvolvimento de Sistemas na Etec Uirapuru
+- 📖 Atualmente Cursando Desenvolvimento de Sistemas na Etec Uirapuru
 
 - 📖 Atualmente Cursando Programação Oracle - Java Fundations
   
