@@ -3,7 +3,7 @@
 
 ## atualmente cursando: ##
 
-### 📖 Etec Uirapuru - Desenvolvimento de Sistema 
+### 📖 Etec Uirapuru - Desenvolvimento de Sistemas 
 
 ### 📖 Senai Mariano Ferraz - Oracle Programming - Java Fundations
 
