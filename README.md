@@ -7,7 +7,7 @@
 
 ### 📖 Senai Mariano Ferraz - Oracle Programming - Java Fundations
 
-### 📖 Santander 2025 - Back-End com Java (90hrs)
+### 📖 Santander 2025 - Back-End com Java <sub>(90h)</sub>
 
 ## ✅ Cursos Concluídos
 
