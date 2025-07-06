@@ -1,16 +1,13 @@
 
 # Murilo Miranda Verçosa #
-
+##técnico em Desenvolvimento de Sistemas##
 ## atualmente cursando: ##
-
-### 📖 Etec Uirapuru - Desenvolvimento de Sistemas 
-
-### 📖 Senai Mariano Ferraz - Oracle Programming - Java Fundations
 
 ### 📖 Santander 2025 - Back-End com Java <sub>(90h)</sub>
 
 ## ✅ Cursos Concluídos
-
+- 📘 **📖 Etec Uirapuru - Desenvolvimento de Sistemas **
+- 📘 **Senai Mariano Ferraz - Oracle Programming - Java Fundations**
 - 📘 **Bradesco - Java Cloud Native**  
 
 
