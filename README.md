@@ -1,38 +1,55 @@
+# Murilo Miranda Verçosa
+## Técnico em Desenvolvimento de Sistemas | Aprendiz de TI na [CentralInf](https://[www.site-da-empresa.com](https://www.centralinf.com.br/))
 
-# Murilo Miranda Verçosa #
-#### técnico em Desenvolvimento de Sistemas ####
-## atualmente cursando: ##
+Estou no início da minha jornada profissional, guiado por uma grande paixão por tecnologia e desenvolvimento de software. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Uirapuru, com forte interesse em back-end.
 
-### 📖 Santander 2025 - Back-End com Java <sub>(90h)</sub>
+Java é a linguagem com a qual me conectei desde cedo. Já concluí dois cursos complementares para me aprofundar ainda mais, e atualmente venho expandindo meus conhecimentos com o ecossistema Spring.
+
+Apesar do foco em back-end, também tenho estudado Angular para desenvolver habilidades no front-end. Meu objetivo é me tornar um desenvolvedor full-stack, sempre buscando escrever código limpo e evoluir constantemente.
+
+---
+
+### 🎯 Resumo
+
+- 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas pela Etec Uirapuru  
+- 💼 **Experiência atual**: Aprendiz de TI na CentralInf  
+- 🧠 **Estudando**: Spring Framework, JPA, REST APIs  
+- 🚀 **Explorando**: Angular (front-end)  
+- ❤️ **Objetivo**: Me tornar um desenvolvedor full-stack  
+
+---
+
+## 📚 Atualmente Cursando
+
+- 📖 **Santander Bootcamp 2025 - Back-End com Java** <sub>(90h)</sub>
 
 ## ✅ Cursos Concluídos
+
 - 📘 **Etec Uirapuru - Desenvolvimento de Sistemas**
-- 📘 **Senai Mariano Ferraz - Oracle Programming - Java Fundations**
+- 📘 **Senai Mariano Ferraz - Oracle Programming - Java Foundations**
 - 📘 **Bradesco - Java Cloud Native**  
 
+---
 
-
-
-### Redes Sociais ###
+## 🌐 Redes Sociais
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuriloVercosa01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilomvercosa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilomiranda.work@gmail.com)
 
-### Soft Skills ###
-#### Comunicativo - Trabalho em Equipe - Adaptação - Curiosidade - Foco ####
+---
 
-### Hard Skills ###
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🧠 Soft Skills
+
+**Comunicativo • Trabalho em equipe • Adaptável • Curioso • Focado**
+
+## 💻 Hard Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
-![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloVercosa01&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Atualmente Trabalhando em: ##
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloVercosa01&repo=DTCC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MuriloVercosa01/DTCC)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
