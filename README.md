@@ -21,13 +21,14 @@ Apesar do foco em back-end, também tenho estudado Angular para desenvolver habi
 
 ## 📚 Atualmente Cursando
 
-- 📖 **Santander Bootcamp 2025 - Back-End com Java** <sub>(90h)</sub>
+- 📖 **Rocketseat - Formação Angular** <sub>(46h)</sub>
 
 ## ✅ Cursos Concluídos
 
 - 📘 **Etec Uirapuru - Desenvolvimento de Sistemas**
 - 📘 **Senai Mariano Ferraz - Oracle Programming - Java Foundations**
 - 📘 **Bradesco - Java Cloud Native**  
+- 📘 **Rocketseat - Fundamentos de Angular <sub>(11hrs)</sub>**  
 
 ---
 
