@@ -11,8 +11,8 @@ Apesar do foco em back-end, também tenho estudado Angular para desenvolver habi
 
 ### 🎯 Resumo
 
-- 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas pela Etec Uirapuru  
-- 💼 **Experiência**: Aprendiz de TI na CentralInf<sub>7 meses</sub> | Desenvolvedor Java Trainee - atual
+- 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas pela Etec Uirapuru | 1/10 - Sistemas de Informação pela Impacta
+- 💼 **Experiência**: Aprendiz de TI <sub>(7 meses)</sub> | Desenvolvedor Java Trainee
 - 🧠 **Estudando**: Angular 19
 - ❤️ **Objetivo**: Me tornar um desenvolvedor full-stack  
 
