@@ -20,7 +20,7 @@ Apesar do foco em back-end, também tenho estudado Angular para desenvolver habi
 
 ## 📚 Atualmente Cursando
 
-- 📖 **Sistemas de Informação - Impacta** <sub>graduação</sub>
+- 📖 **Sistemas de Informação <sub>graduação</sub> - Impacta**
 
 ## ✅ Cursos Concluídos
 
