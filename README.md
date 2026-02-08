@@ -1,5 +1,5 @@
 # Murilo Miranda Verçosa
-## Técnico em Desenvolvimento de Sistemas | Aprendiz de TI na [CentralInf](https://[www.site-da-empresa.com](https://www.centralinf.com.br/))
+## Técnico em Desenvolvimento de Sistemas | Desenvolvedor Java Trainee na [CentralInf](https://[www.site-da-empresa.com](https://www.centralinf.com.br/))
 
 Estou no início da minha jornada profissional, guiado por uma grande paixão por tecnologia e desenvolvimento de software. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Uirapuru, com forte interesse em back-end.
 
@@ -12,16 +12,15 @@ Apesar do foco em back-end, também tenho estudado Angular para desenvolver habi
 ### 🎯 Resumo
 
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas pela Etec Uirapuru  
-- 💼 **Experiência atual**: Aprendiz de TI na CentralInf  
-- 🧠 **Estudando**: Spring Framework, JPA, REST APIs  
-- 🚀 **Explorando**: Angular (front-end)  
+- 💼 **Experiência**: Aprendiz de TI na CentralInf<sub>7 meses</sub> | Desenvolvedor Java Trainee - atual
+- 🧠 **Estudando**: Angular 19
 - ❤️ **Objetivo**: Me tornar um desenvolvedor full-stack  
 
 ---
 
 ## 📚 Atualmente Cursando
 
-- 📖 **Rocketseat - Formação Angular** <sub>(46h)</sub>
+- 📖 **Sistemas de Informação - Impacta** <sub>graduação</sub>
 
 ## ✅ Cursos Concluídos
 
